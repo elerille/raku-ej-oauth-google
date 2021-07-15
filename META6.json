@@ -1,0 +1,21 @@
+{
+  "name": "Ej::OAuth::Google",
+  "description": "Google OAuth 2.0 client for Raku",
+  "version": "0.1",
+  "perl": "6.*",
+  "authors": [
+    "Élerille"
+  ],
+  "auth": "github:elerille",
+  "depends": [
+    "Ej::OAuth"
+  ],
+  "build-depends": [],
+  "test-depends": [],
+  "provides": {
+    "Ej::OAuth::Google": "lib/Ej/OAuth/Google.pm6"
+  },
+  "resources": [],
+  "license": "GPL-3.0-or-later",
+  "source-url": "https://github.com/elerille/raku-ej-oauth-google.git"
+}
